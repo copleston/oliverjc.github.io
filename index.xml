@@ -33,12 +33,13 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>DERA</title>
+      <title>CompSoc x Just Eat Hackathon 2018</title>
       <link>https://oliverjc.me/portfolio/dera/</link>
       <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>https://oliverjc.me/portfolio/dera/</guid>
-      <description>This is a Java reference implementation of dynamic event-driven actors runtime aiming at providing adequate abstraction levels and mechanisms for modelling and developing (distributed) event-based systems. DERA leverages the intrinsic loose coupling of event-driven communication styles to support various kinds of run-time evolution and adaptation (i.e., enabling run-time flexibility) while minimizing the non-deterministic nature of traditional event-based applications (i.e., supporting formal analysis).</description>
+      <description>   This is a Java reference implementation of dynamic event-driven actors runtime aiming at providing adequate abstraction levels and mechanisms for modelling and developing (distributed) event-based systems. DERA leverages the intrinsic loose coupling of event-driven communication styles to support various kinds of run-time evolution and adaptation (i.e., enabling run-time flexibility) while minimizing the non-deterministic nature of traditional event-based applications (i.e., supporting formal analysis).
+This is a header while(true);  </description>
     </item>
     
     <item>

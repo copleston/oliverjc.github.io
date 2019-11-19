@@ -6,7 +6,7 @@
     <description>Recent content on Oliver Copleston</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://oliverjc.me/index.xml" rel="self" type="application/rss+xml" />
     
@@ -34,21 +34,11 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>CompSoc x Just Eat Hackathon 2018</title>
-      <link>https://oliverjc.me/portfolio/dera/</link>
-      <pubDate>Thu, 21 Jun 2018 00:00:00 +0000</pubDate>
+      <link>https://oliverjc.me/portfolio/hackathon/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://oliverjc.me/portfolio/dera/</guid>
-      <description>   This is a Java reference implementation of dynamic event-driven actors runtime aiming at providing adequate abstraction levels and mechanisms for modelling and developing (distributed) event-based systems. DERA leverages the intrinsic loose coupling of event-driven communication styles to support various kinds of run-time evolution and adaptation (i.e., enabling run-time flexibility) while minimizing the non-deterministic nature of traditional event-based applications (i.e., supporting formal analysis).
-This is a header while(true);  </description>
-    </item>
-    
-    <item>
-      <title>hyde-hyde</title>
-      <link>https://oliverjc.me/portfolio/hyde-hyde/</link>
-      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://oliverjc.me/portfolio/hyde-hyde/</guid>
-      <description>Hyde-hyde is a responsive Hugo theme inspired by @spf13&amp;rsquo;s Hyde and its variant Nate Finch&amp;rsquo;s blog. It was heavily restructured with modularised page layouts for easier maintenance and modification. Hyde-hyde offers awesome features such as nice colour tone, code highlighting, Font-Awesome 5&amp;rsquo;s sidebar icons), a cool portfolio page, more choices for commenting (e.g. GraphComment, Disqus).</description>
+      <guid>https://oliverjc.me/portfolio/hackathon/</guid>
+      <description>   </description>
     </item>
     
     <item>
@@ -57,7 +47,7 @@ This is a header while(true);  </description>
       <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://oliverjc.me/portfolio/laramod/</guid>
-      <description>LaraMod is another modularisation effort to systematically organising a Laravel based project. The idea stems from my struggle to structure a Laravel-based project so that I can work effectively on individual modules whilst keeping Laravel codebase intact as much as possible and also keeping the project&amp;rsquo;s codebase separate from Laravel.</description>
+      <description>LaraMod is another modularisation effort to systematically organising a Laravel based project. The idea stems from my struggle to structure a Laravel-based project so that I can work effectively on individual modules whilst keeping Laravel codebase intact as much as possible and also keeping the project&amp;rsquo;s codebase separate from Laravel. Test</description>
     </item>
     
     <item>
@@ -93,6 +83,15 @@ More complete instructions are available at installing hugo
 Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
 Follow the following steps:
  Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+    </item>
+    
+    <item>
+      <title>VP Education Campaign</title>
+      <link>https://oliverjc.me/portfolio/vp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://oliverjc.me/portfolio/vp/</guid>
+      <description>Bad singing? Check. Dodgy dancing? Check. My housemate insisting on wearing a horse mask? Check.</description>
     </item>
     
   </channel>

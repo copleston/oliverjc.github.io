@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://oliverjc.me/posts/glowear1/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://oliverjc.me/posts/stranger_things/</loc>
     <lastmod>2019-10-31T00:00:00+00:00</lastmod>
   </url>
@@ -44,6 +49,16 @@
   
   <url>
     <loc>https://oliverjc.me/tags/esp32/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliverjc.me/tags/leds/</loc>
+    <lastmod>2019-10-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://oliverjc.me/categories/lights/</loc>
     <lastmod>2019-10-31T00:00:00+00:00</lastmod>
   </url>
   

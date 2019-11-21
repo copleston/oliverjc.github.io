@@ -6,9 +6,28 @@
     <description>Recent content in Categories on Oliver Copleston</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://oliverjc.me/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>electronics</title>
+      <link>https://oliverjc.me/categories/electronics/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://oliverjc.me/categories/electronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://oliverjc.me/categories/projects/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://oliverjc.me/categories/projects/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
